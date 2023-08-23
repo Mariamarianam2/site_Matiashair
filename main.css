@@ -8,7 +8,7 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: "Bungee Inlinee", cursive;
+    font-family: 'Oswald', sans-serif;
     font-weight: normal;
 }
 
@@ -18,9 +18,11 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #000;
+    color: #fff;
 }
+
+header 
 
 header nav li {
     display: inline;
@@ -29,7 +31,7 @@ header nav li {
 }
 
 header nav li a {
-    color: #ecf0f1;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -45,6 +47,7 @@ section .container {
     align-items: center;
     justify-content: space-between;
 }
+
 
 .brands-list img {
     height: 24px;
