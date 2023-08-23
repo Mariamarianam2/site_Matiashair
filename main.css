@@ -76,7 +76,7 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #000;
 }
 
 section {
@@ -128,22 +128,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #000;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #555557;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #000;
 }
 
 footer {
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #000;
+    color: #fff;
     padding: 16px 0;
 }
